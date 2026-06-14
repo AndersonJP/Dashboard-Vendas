@@ -1,5 +1,4 @@
 # 📊 Dashboard de Análise de Vendas
-Projeto de estudos desenvolvido para análises de vendas e faturamento utilizando Power BI
 <img width="1612" height="711" alt="image" src="https://github.com/user-attachments/assets/fc5e4a3f-2895-431a-ba99-13fa6c900ba2" />
 
 ---
