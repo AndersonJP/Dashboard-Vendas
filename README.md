@@ -11,6 +11,13 @@ Empresa com necessidadede acompanhar:
 -Produtos mais vendidos
 -Vendas por região
 
+# 📈 Indicadores Desenvolvidos KPIs Principais
+✅ Receita Total
+✅ Quantidade Vendida
+✅ Ticket Médio
+✅ Crescimento Mensal
+✅ Lucro Total
+
 
 # 2-Ferramentas Utilizadas
 -Power bi
@@ -19,3 +26,12 @@ Empresa com necessidadede acompanhar:
 -Dax (Criação da Tabela Calendario e colunas de Ano, Mês, Dia e Trimestre)
 
 
+
+
+🛠 Tecnologias Utilizadas
+Ferramenta	Finalidade
+Power BI	Construção do Dashboard
+Power Query	ETL e Transformação
+DAX	Cálculos e Métricas
+SQL	Extração e Consulta
+Excel/CSV	Fonte de Dados
